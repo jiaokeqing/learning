@@ -7,7 +7,7 @@ package com.jiaokeqing.algorithms.sort;
  * <pre>
  *     Worst Case:O(n^2)
  *     Average Case:O(n^2)
- *     Best Case:O(n^2)
+ *     Best Case:O(n)
  * </pre>
  * <p>
  * Space Complexity
